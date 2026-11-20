@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background-color:#e8ddca;}
+
+.Kotak {background-color:white;width:900px;margin:0px auto 0px auto;}
+
+.logo {float:left;}
+.icon {float:right;}
+
+.Navigation {clear:both;border-top:solid 2px black;border-bottom:solid 2px black;padding:15px 0px 15px 0px;}
+.Navigation a {color:black;word-spacing:20px;text-decoration:none;font-family:Arial;font-size:15px}
+
+.Navigation a:hover{color:pink;}
+
+.Title {color:#bb5E00; border-bottom:solid 1px black; font-family:Arial;}
+
+.LeftContent {font-family:Arial;width:660px;float:left;}
+.LeftContent img {border:solid black 1px;margin:10px 10px 10px 10px;padding:10px 10px 10px 10px;}
+
+.Rightcontent {font-family:Arial;width:200px;float:right;}
+.Rightcontent h4 {color:#bb5e00;}
+
+.footer {clear:both; padding:5px;border-top:solid 1px black;}
